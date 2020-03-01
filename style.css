@@ -1,0 +1,149 @@
+.container{
+    clear: both;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.navbar-brand{
+    margin-left: 30px;
+    margin-top: 60px;
+}
+.button{
+    color: white;
+    background-color: black;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.card{
+    border: solid 2px rgba(245, 245, 245, 0.459);
+    border-radius: 10px;
+}
+.all{
+    color:yellow;
+}
+.theme-cards{
+    width: 20%;
+}
+.link{
+    text-decoration: none;
+    color:yellow;
+}
+.h{
+    text-align: center;
+    border-bottom: #FFA500;
+}
+
+.blocks2{
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+.card-img{
+    width: 70%;
+}
+.button1,.button2,.button3{
+padding: 45px 45px;
+}
+.blocks1,.blocs2,.blocks{
+  box-shadow: transparent
+}
+.text{
+    padding-top: 40px;
+}
+.blocks{
+    float: ;
+}
+.border{
+    width: 400px;
+}
+img{
+    border: whitesmoke;
+}
+.blocks {
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    margin-left: 200px;
+    margin-top: 10px;
+    text-align: center;
+    border: solid 2px rgba(245, 245, 245, 0.63);
+    width: 250px;
+    height: 250px;
+
+}
+.blocks img{
+   margin-right: 20px;
+    margin-top: 40px;
+    align-content: center;
+}
+.P img{
+    margin-left: 140px;
+   width: 600px;
+    height: 500px;
+}
+
+.blocks1{
+  
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    margin-left: 200px;
+    text-align: center;
+    border: solid 2px rgba(245, 245, 245, 0.63);
+    width: 250px;
+    height: 250px;
+ 
+}
+.blocks1 img{
+   margin-right: 20px;
+    margin-top: 40px;
+    align-content: center;
+}
+.button1{
+    color: white;
+    background-color: black;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+    margin-left: 65px;
+}
+.card-title,.card-text,.price{
+    text-align: center;
+}
+.b{
+    align-content: center;
+}
+.progress{
+  height: 10px;
+    margin-right: 480px;
+    margin-left: 480px;
+}
+.card-img-top{
+    width: 80%;
+    margin-top: 60px;
+   margin-left: 40px;
+}
+
+.carousel-indicators li {
+    display: inline-block;
+    width: 15px;
+    height: 15px;
+    margin: 5px;
+    text-indent: 0;
+    cursor: pointer;
+    border: none;
+    border-radius: 50%;
+    background-color: whitesmoke;
+    box-shadow: inset 1px 1px 1px 1px rgba(0,0,0,0.5);      
+list-style-type: circle;
+}
+.carousel-indicators .active{
+        height: 20px;
+        width: 40px;
+        background: none;
+      background-color:  #FFCC1B;
+        box-sizing: border-box;
+        margin: 5px;
+        transition: 0.8s;
+      }
+      
+     
